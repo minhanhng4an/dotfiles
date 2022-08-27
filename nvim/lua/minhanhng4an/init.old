@@ -1,0 +1,6 @@
+require("minhanhng4an/telescope")
+require("minhanhng4an/lightline")
+require("minhanhng4an/gitsigns")
+require("minhanhng4an/lsp")
+require("minhanhng4an/treesitter")
+require("minhanhng4an/tree")
